@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab_Intents</string>
+    <string name="send_action">Send message from</string>
+    <string name="share_image">Share image to</string>
+</resources>
